@@ -3,8 +3,8 @@ subtitle: Futuro engenheiro de Computação
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io https://samuel-cavalcanti.github.io/
 baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://samuel-cavalcanti.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io 
 
 urls:
     # - text: About Me
@@ -26,7 +26,7 @@ urls:
 
 author_logo: lindo.png
 author: Samuel Cavalcanti
-author_bio: "Chamo-me Samuel Cavalcanti e adoro criar aplicações que aprendem, robôs, o mundo open source, invadir a rede do vizinho 😈 (Com o consentimento dele, é claro... )"
+author_bio: "Chamo-me Samuel Cavalcanti e adoro: criar aplicações que aprendem, robôs, o mundo open source, me aventurar no desenvolvimento WEB e mobile"
 
  
 author_email: "scavalcanti111@gmail.com"
@@ -96,7 +96,7 @@ telegram_username: SamCavalcanti
 # disqus_shortname: sujay-kundu
 
 # wakatime username (coding activity)
-wakatime_username: samuel-cavalcanti
+wakatime_username: false
 
 # mailchimp embedded form url (newsletter):
 # mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
@@ -191,4 +191,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-destination: ./build
+destination: ./samuel-cavalcanti.github.io
